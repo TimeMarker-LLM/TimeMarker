@@ -1,5 +1,7 @@
 # TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability
 
+<img width="900" src="https://github.com/TimeMarker-LLM/TimeMarker/blob/main/assets/logo_w_name.jpg">
+
 ## Introduction
 
 Recent advancements in the realm of video-language models have predominantly focused on visual perception and reasoning, leading to less emphasis on temporal localization and detection capabilities. Current models, while trained extensively on video captioning and QA datasets, struggle with placing precise temporal references within video content. Although many Video-LLMs incorporate temporal embedding into video features, this approach still has significant drawbacks. Specifically, these models can only perceive relative time—such as the sequence of events rather than absolute time points, like the exact second an event occurs. This lack of precise temporal grounding leads to less interpretable and verifiable responses, and poses challenges for subsequent temporal reasoning and inference. To address these limitations, we present **TimeMarker**, a versatile Video-LLM designed for high-quality dialogue based on video content, featuring robust temporal localization abilities.
