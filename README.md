@@ -18,11 +18,11 @@ Recent advancements in the realm of video-language models have predominantly foc
 
 
 ## News
-[2024/10/30] 🔥 We release our TimeMarker model. TimeMarker achieves 🌟Rank 1 on [LVBench](https://lvbench.github.io/#leaderboard), 🌟Rank 2 on [VideoVista](https://videovista.github.io/#leaderboard) (Rank 1 on VideoVista is Human Performance) and 🌟Rank 2 on [MVBench](https://huggingface.co/spaces/OpenGVLab/MVBench_Leaderboard)! The results of our TimeMarker also rank highly in other video benchmarks. Our paper is coming soon.
+[2024/10/30] 🔥 We release our TimeMarker model. TimeMarker is based on Llama3-8B LLM, and achieves 🌟Rank 1 on [LVBench](https://lvbench.github.io/#leaderboard), 🌟Rank 2 on [VideoVista](https://videovista.github.io/#leaderboard) (Rank 1 on VideoVista is Human Performance), 🌟Rank 2 on [MVBench](https://huggingface.co/spaces/OpenGVLab/MVBench_Leaderboard), and 🌟Rank 3 on [MLVU test set](https://github.com/JUNJIE99/MLVU?tab=readme-ov-file#trophy-mlvu-test-leaderboard)! The results of our TimeMarker also rank highly in other video benchmarks. Our paper is coming soon.
 
 
 ## Model Architecture
-<img width="1260" src="https://github.com/TimeMarker-LLM/TimeMarker/blob/main/timemarker_framework.png">
+<img width="1260" src="https://github.com/TimeMarker-LLM/TimeMarker/blob/main/assets/timemarker_framework.png">
 
 
 
