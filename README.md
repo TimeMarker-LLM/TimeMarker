@@ -35,7 +35,7 @@ Recent advancements in the realm of video-language models have predominantly foc
 | GPT-4o                                                                    | -                | 71.9                | 78.3       | 27.0    | 66.7           | 64.6 | -       | 1.64          | -           |
 | [LLaVA-Next-Video-7B](https://huggingface.co/lmms-lab/LLaVA-NeXT-Video-7B) | Vicuna-7b-v1.5   | 33.7                | 56.7       | -       | 43.5           | -    | 53.1    | -             | -           |
 | [PLLaVA-7B](https://github.com/magic-research/PLLaVA)                     | Vicuna-7b-v1.5   | -                   | 60.4       | -       | 39.2           | -    | 46.6    | 1.03          | -           |
-| [VideoChat2-HD](https://github.com/OpenGVLab/Ask-Anything)                | Mistral-7B       | 54.8                | 61.6          | -       | -              | 47.9 | 62.3    | -             | -           |
+| [VideoChat2-HD](https://github.com/OpenGVLab/Ask-Anything)                | Mistral-7B       | -                | 61.6          | -       | -              | 47.9 | 62.3    | -             | -           |
 | [VideoLLaMA2-7B](https://github.com/DAMO-NLP-SG/VideoLLaMA2)              | Mistral-7B       | 47.9                | 60.5       | -       | -              | 48.5 | 54.6    | -             | -           |
 | [LongVA](https://github.com/EvolvingLMMs-Lab/LongVA)                      | Qwen2-7B         | 52.6                | 67.4       | -       | -              | 56.3 | -       | -             | -           |
 | [Video-XL](https://github.com/VectorSpaceLab/Video-XL)                    | Qwen2-7B         | 55.5                | -          | -       | 49.5           | 64.9 | 55.3    | -             | -           |
