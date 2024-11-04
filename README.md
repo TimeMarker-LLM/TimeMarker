@@ -33,14 +33,14 @@ Recent advancements in the realm of video-language models have predominantly foc
 | Gemini-1.5-pro                                                            | -                | 75.0                | 76.4       | 33.1    | 66.4           | -    | -       | 1.30          | 67.1        |
 | GPT-4V                                                                    | -                | 59.9                | -          | -       | 60.7           | 49.2 | 43.7    | 1.53          | -           |
 | GPT-4o                                                                    | -                | 71.9                | 78.3       | 27.0    | 66.7           | 64.6 | -       | 1.64          | -           |
-| [LLaVA-Next-Video-7B](https://huggingface.co/lmms-lab/LLaVA-NeXT-Video-7B) | Vicuna-7b-v1.5   | 33.7                | 56.7       | -       | 43.5           | -    | 53.1    | -             | -           |
+| [LLaVA-Next-Video-7B](https://huggingface.co/lmms-lab/LLaVA-NeXT-Video-7B) | Vicuna-7b-v1.5   | 33.7                | 56.7       | -       | 43.5           | -    | 53.1    | -            | -           |
 | [PLLaVA-7B](https://github.com/magic-research/PLLaVA)                     | Vicuna-7b-v1.5   | -                   | 60.4       | -       | 39.2           | -    | 46.6    | 1.03          | -           |
-| [VideoChat2-HD](https://github.com/OpenGVLab/Ask-Anything)                | Mistral-7B       | -                | 61.6          | -       | -              | 47.9 | 62.3    | 1.22             | -           |
+| [VideoChat2-HD](https://github.com/OpenGVLab/Ask-Anything)                | Mistral-7B       | -                   | 61.6       | -       | -              | 47.9 | 62.3    | 1.22          | -           |
 | [VideoLLaMA2-7B](https://github.com/DAMO-NLP-SG/VideoLLaMA2)              | Mistral-7B       | 47.9                | 60.5       | -       | -              | 48.5 | 54.6    | -             | -           |
-| [LongVA](https://github.com/EvolvingLMMs-Lab/LongVA)                      | Qwen2-7B         | 52.6                | 67.4       | -       | -              | 56.3 | -       | -             | -           |
+| [LongVA](https://github.com/EvolvingLMMs-Lab/LongVA)                      | Qwen2-7B         | 52.6                | 67.4       | -       | -              | 56.3 | -       | -             | 56.9        |
 | [Video-XL](https://github.com/VectorSpaceLab/Video-XL)                    | Qwen2-7B         | 55.5                | -          | -       | 49.5           | 64.9 | 55.3    | -             | -           |
 | [Qwen2-VL-7B-Instruct](https://github.com/QwenLM/Qwen2-VL)                | Qwen2-7B         | 63.3                | -          | -       | -              | -    | 67.0    | -             | 67.8        |
-| [Kangaroo](https://github.com/KangarooGroup/Kangaroo)                     | Llama3-8B        | 56.0                | 69.5       | 39.4    | 54.8           | 61.0 | 61.1    | 1.44          | 62.5        |
+| [Kangaroo](https://github.com/KangarooGroup/Kangaroo)                     | Llama3-8B        | 56.0                | 69.5       | 39.4    | 54.8           | 61.0 | 61.1    | 1.44          | -           |
 | TimeMarker (Ours)                                                         | Llama3-8B        | 59.3                | 78.4       | 41.3    | 56.3           | 63.9 | 67.4    | 1.53          | 60.4        |
 
 
