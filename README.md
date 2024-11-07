@@ -41,7 +41,7 @@ Recent advancements in the realm of video-language models have predominantly foc
 | [Video-XL](https://github.com/VectorSpaceLab/Video-XL)                    | Qwen2-7B         | 55.5                | -          | -       | 49.5           | 64.9 | 55.3    | -             | -           |
 | [Qwen2-VL-7B-Instruct](https://github.com/QwenLM/Qwen2-VL)                | Qwen2-7B         | 63.3                | -          | -       | -              | -    | 67.0    | -             | 67.8        |
 | [Kangaroo](https://github.com/KangarooGroup/Kangaroo)                     | Llama3-8B        | 56.0                | 69.5       | 39.4    | 54.8           | 61.0 | 61.1    | 1.44          | -           |
-| TimeMarker (Ours)                                                         | Llama3-8B        | 59.3                | 78.4       | 41.3    | 56.3           | 63.9 | 67.4    | 1.53          | 60.4        |
+| TimeMarker (Ours)                                                         | Llama3-8B        | 57.3                | 78.4       | 41.3    | 56.3           | 63.9 | 67.4    | 1.53          | 60.4        |
 
 
 
