@@ -8,7 +8,7 @@ Recent advancements in the realm of video-language models have predominantly foc
 
 **Key Innovations**:
 
-1. **Temporal Separator Tokens Integration**: TimeMarker uses Temporal Separator Tokens Integration to enhance temporal awareness in videos. By interleaving textual temporal separator tokens (e.g., sec{20}) with video frame tokens, this method encodes the absolute temporal positions of video frames. These tokens serve as precise time markers, allowing the model to identify and reference specific moments within the video.
+1. **Temporal Separator Tokens Integration**: TimeMarker uses Temporal Separator Tokens Integration to enhance temporal awareness in videos. By interleaving textual temporal separator tokens (e.g., sec{20}) with video frame tokens, this method encodes the absolute temporal positions of video frames. These tokens serve as precise time markers, allowing the model to identify and reference specific moments within the video. Additionally, our Temporal Separator Tokens are plug-and-play, making them highly adaptable to other model architectures.
 
 2. **AnyLength Mechanism**: To process videos of varying lengths efficiently, TimeMarker employs the AnyLength mechanism, which uses dynamic frame sampling and adaptive token resizing/merging. This mechanism adjusts the frames per second (FPS) when sample video frames and modify token compression ratio when adaptively merge tokens in a single video frame based on the video's length, ensuring comprehensive coverage of various-length videos. 
 
