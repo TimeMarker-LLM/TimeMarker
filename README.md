@@ -2,6 +2,12 @@
 
 <img width="900" src="https://github.com/TimeMarker-LLM/TimeMarker/blob/main/assets/logo_w_name.jpg">
 
+## News
+[2024/11/28] 🔥 Our paper is coming! We release our paper on [Arxiv](https://arxiv.org/abs/2411.18211). Please refer to the paper for more details. 
+
+[2024/10/30] 🔥 We release our TimeMarker model. TimeMarker is based on Llama3-8B LLM, and achieves 🌟Rank 1 on [LVBench](https://lvbench.github.io/#leaderboard), 🌟Rank 2 on [VideoVista](https://videovista.github.io/#leaderboard) (Rank 1 on VideoVista is Human Performance), 🌟Rank 2 on [MVBench](https://huggingface.co/spaces/OpenGVLab/MVBench_Leaderboard), and 🌟Rank 3 on [MLVU test set](https://github.com/JUNJIE99/MLVU?tab=readme-ov-file#trophy-mlvu-test-leaderboard)! The results of our TimeMarker also rank highly in other video benchmarks. Our paper is coming soon.
+
+
 ## Introduction
 
 Recent advancements in the realm of video-language models have predominantly focused on visual perception and reasoning, leading to less emphasis on temporal localization and detection capabilities. Current models, while trained extensively on video captioning and QA datasets, struggle with placing precise temporal references within video content. Although many Video-LLMs incorporate temporal embedding into video features, this approach still has significant drawbacks. Specifically, these models can only perceive relative time—such as the sequence of events rather than absolute time points, like the exact second an event occurs. This lack of precise temporal grounding leads to less interpretable and verifiable responses, and poses challenges for subsequent temporal reasoning and inference. To address these limitations, we present **TimeMarker**, a versatile Video-LLM designed for high-quality dialogue based on video content, featuring robust temporal localization abilities.
@@ -17,10 +23,6 @@ Recent advancements in the realm of video-language models have predominantly foc
 4. **Benchmark Excellence Across Various Video Lengths**: TimeMarker achieves state-of-the-art performance across multiple public video benchmarks, excelling in both short and long video categories. It surpasses traditional models in tasks such as temporal sentence grounding, demonstrating superior temporal localization and understanding capabilities. This underscores the model's robustness and versatility in handling videos of varying lengths with exceptional accuracy in time-based tasks.
 
 
-## News
-[2024/11/28] 🔥 Our paper is coming! We release our paper on [Arxiv](https://arxiv.org/abs/2411.18211). Please refer to the paper for more details. 
-
-[2024/10/30] 🔥 We release our TimeMarker model. TimeMarker is based on Llama3-8B LLM, and achieves 🌟Rank 1 on [LVBench](https://lvbench.github.io/#leaderboard), 🌟Rank 2 on [VideoVista](https://videovista.github.io/#leaderboard) (Rank 1 on VideoVista is Human Performance), 🌟Rank 2 on [MVBench](https://huggingface.co/spaces/OpenGVLab/MVBench_Leaderboard), and 🌟Rank 3 on [MLVU test set](https://github.com/JUNJIE99/MLVU?tab=readme-ov-file#trophy-mlvu-test-leaderboard)! The results of our TimeMarker also rank highly in other video benchmarks. Our paper is coming soon.
 
 
 ## Model Architecture
