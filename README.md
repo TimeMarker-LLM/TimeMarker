@@ -125,4 +125,15 @@ Recent advancements in the realm of video-language models have predominantly foc
 Note: FS means the model is a specialized model for temporal sentence grounding in video trained in a fully supervised setting, VLM means the model is a Video-LLM.
 
 
+## Citation
+If you find this repository useful, please consider giving a star :star: and citation
+
+```
+@article{chen2024timemarker,
+  title={TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability},
+  author={Shimin Chen and Xiaohan Lan and Yitian Yuan and Zequn Jie and Lin Ma},
+  journal={arXiv preprint arXiv:2411.18211},
+  year={2024}
+}
+```
 
